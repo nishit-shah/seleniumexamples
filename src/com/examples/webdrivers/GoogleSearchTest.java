@@ -31,7 +31,7 @@ public class GoogleSearchTest extends LocationSearch{
 		 * driver.findElement(By.name("q")).sendKeys("selenium",Keys.RETURN);
 		 * //Thread.sleep(2000); driver.wait(2000); driver.quit(); //driver.close();
 		 */		
-		System.out.println("inside main function");
+		System.out.println("inside main functions");
 		GoogleSearchTest gsearch = new GoogleSearchTest();
 		gsearch.add();
 		//SoftAssert sa = new SoftAssert();
