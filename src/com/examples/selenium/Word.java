@@ -10,6 +10,7 @@ public class Word implements Msoffice{
 	public void write() {
 		// TODO Auto-generated method stub
 		System.out.println("Write to word file");
+		System.out.println("Sample message for git commit");
 	}
 
 	public void save() {
